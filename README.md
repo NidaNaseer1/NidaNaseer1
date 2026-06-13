@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nida Naseer PM</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-- 🔭 I’m currently working on **ecommerce app using nextjs**
+- 🔭 I’m currently working on **ecommerce app using React**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NidaNaseer1](https://github.com/NidaNaseer1)
 
