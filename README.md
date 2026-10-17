@@ -82,16 +82,10 @@
 
 ### 📊 GitHub Statistics
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=NidaNaseer1&show_icons=true&theme=default" alt="GitHub Stats"/>
+p>
+<img src="https://github-readme-stats.vercel.app/api?username=NidaNaseer1&show_icons=true&theme=default" alt="Nida's GitHub Stats"/>
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NidaNaseer1&layout=compact&theme=default" alt="Top Languages"/>
-</p>
-
----
-
-<p align="center">
-  <i>Turning data into meaningful insights, one project at a time. 📊</i>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NidaNaseer1&layout=compact&theme=default" alt="Nida's Top Languages"/>
 </p>
