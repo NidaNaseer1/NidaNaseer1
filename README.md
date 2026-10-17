@@ -86,8 +86,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=NidaNaseer1&show_icons=true&theme=default&hide=issues,contribs" alt="GitHub Stats"/>
 </p>
 
-### 🐍 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NidaNaseer1&layout=compact&theme=default&hide=html,css,javascript,typescript,scss&langs_count=6" alt="Most Used Languages"/>
-</p>
