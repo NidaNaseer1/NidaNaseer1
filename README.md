@@ -80,15 +80,14 @@
 
 ---
 
-### 📊 GitHub Statistics
-
+### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NidaNaseer1&show_icons=true&theme=default" alt="Nida's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NidaNaseer1&show_icons=true&theme=default&hide=issues,contribs" alt="GitHub Stats"/>
 </p>
 
-### 🛠️ Data Analytics Tools
+### 🐍 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NidaNaseer1&layout=compact&theme=default" alt="Nida's Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NidaNaseer1&layout=compact&theme=default&hide=html,css,javascript,typescript,scss&langs_count=6" alt="Most Used Languages"/>
 </p>
