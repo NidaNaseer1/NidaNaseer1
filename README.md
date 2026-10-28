@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Nida Naseer PM</h1>
 
-<h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI</h3>
+<h3 align="center">Aspiring Data Analyst | Business  Analyst | Python | Pandas | Numpy | Matplotlib | Seaborn | EDA | SQL | Power BI | Tableau</h3>
 
 <p align="center">
   Passionate about data analysis, data visualization, and discovering meaningful insights from data.
@@ -13,10 +13,9 @@
 
 - 🔭 Currently working on **HR Data Analysis**
 - 🌱 Currently learning **Power BI**
-- 📊 Learning **Python, NumPy, Pandas, SQL, and Excel**
-- 📈 Interested in **Data Cleaning, EDA, and Data Visualization**
+- 📊 Learning **Python, NumPy, Pandas, Matplotlib, SQL, Excel, Power BI, Tableau**
+- 📈 Interested in **Data Cleaning, EDA, and Data Visualization using Power BI**
 - 👨‍💻 All my projects: [GitHub Portfolio](https://github.com/NidaNaseer1)
-- 💬 Ask me about **Python, Pandas, NumPy, and SQL**
 - 📫 Reach me at **nidapm1234@gmail.com**
 
 ---
@@ -78,7 +77,16 @@
 - Identify sales changes and customer purchasing patterns.
 - Tools: Python, SQL, and Power BI.
 
----
+ **3.Financial Risk Analysis Using Python**
+
+- Performed data cleaning and preprocessing.  
+- Conducted Exploratory Data Analysis (EDA).  
+- Analyzed financial patterns and potential risk indicators.  
+- Created visualizations to generate meaningful insights.
+- Tools Used: Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook.
+
+
+
 
 ### 📊 My GitHub Stats
 
