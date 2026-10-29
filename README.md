@@ -66,7 +66,7 @@
 
 ### 📂 My Projects
 
-**1. E-commerce Sales Analysis**
+**1. E-commerce Sales Analysis**<a href="https://github.com/NidaNaseer1/Retail---Sales-Analysis/">
 - Planned project to analyze sales trends and product performance.
 - Identify sales changes and customer purchasing patterns.
 - Tools: Python, SQL, and Power BI.
