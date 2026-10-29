@@ -66,18 +66,12 @@
 
 ### 📂 My Projects
 
-**1. HR Data Analysis**
-- Analyzing employee information and salary data.
-- Comparing salaries across departments.
-- Finding missing values and analyzing employee statistics.
-- Tools: Python, Pandas, and Power BI.
-
-**2. E-commerce Sales Analysis**
+**1. E-commerce Sales Analysis**
 - Planned project to analyze sales trends and product performance.
 - Identify sales changes and customer purchasing patterns.
 - Tools: Python, SQL, and Power BI.
 
- **3.Financial Risk Analysis Using Python**
+ **2.Financial Risk Analysis Using Python**
 
 - Performed data cleaning and preprocessing.  
 - Conducted Exploratory Data Analysis (EDA).  
@@ -85,9 +79,23 @@
 - Created visualizations to generate meaningful insights.
 - Tools Used: Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook.
 
+**3. Health Analysis Dashboard**
+- Analyzed patient demographics and medical conditions.
+- Visualized gender distribution, patient counts and admission trends.
+- Created an interactive healthcare dashboard.
+- Tools used: Power BI, Data Visualization
 
+**4. Retail & Sales Analysis**
+- Analyzed sales, profit and product categories.
+- Compared regional and sub-category performance.
+- Created an interactive dashboard to explore sales trends.
+- Tools used: Tableau Public, Data Visualization
 
-
+**4. Student Performance Analysis**
+- Analyzed student grades, study time and previous failures.
+- Used SQL for data cleaning, duplicate checking and sorting.
+- Created interactive charts and KPI cards to understand student performance.
+- Tools used: SQL, MySQL Workbench, Power BI
 ### 📊 My GitHub Stats
 
 <p align="center">
